@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "TOKYO NEON",
+  "base_artist": "Mili",
+  "createdAt": "2026-03-20T06:59:50.798661Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TOKYO NEON",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/01_TOKYO_NEON_Mili.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tokyo Neon Lights (feat. blackbird)",
+      "artist": "Oneness",
+      "has_synced": true,
+      "path": "select/02_Tokyo_Neon_Lights_(feat._blackbird)_Oneness.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TOKYO NEON (Key Ingredient ver.)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/03_TOKYO_NEON_(Key_Ingredient_ver.)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TOKYO NEON (Key Ingredient ver․)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/04_TOKYO_NEON_(Key_Ingredient_ver.)_Mili.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO NEON",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO_NEON_Mili.txt"
+    }
+  ]
+}
